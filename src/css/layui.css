@@ -325,7 +325,7 @@ a cite{font-style: normal;}
 
 /* 超小屏幕 */
 @media screen and (max-width: 767.98px) {
-  .layui-container{padding: 0 15px;}
+  .layui-container{padding: 0 15px; width: 100%;}
   .layui-hide-xs{display: none!important;}
   .layui-show-xs-block{display: block!important;}
   .layui-show-xs-inline{display: inline!important;}
